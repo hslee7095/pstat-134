@@ -1,0 +1,10 @@
+.DS_Store
+.dddlab/
+.ipynb_checkpoints/
+.env
+../../.ipynb_checkpoints
+Dockerfile
+Makefile
+docker-compose.yml
+setup.sh
+
